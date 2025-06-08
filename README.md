@@ -1,6 +1,6 @@
 # Hey 👋
 
-I'm a 23-year-old developer, studying Computer Science @ the University of Technology, Jamaica.
+I'm a 24-year-old developer, studying Computer Science @ the University of Technology, Jamaica.
 
 <p>
   <a href="https://raheemgor.vercel.app" style="text-decoration:none;">
